@@ -1,17 +1,17 @@
-package vinz486.preburner.preburner;
+package vinz486.jpoem.poem;
 
-import vinz486.preburner.parser.Parser;
+import vinz486.jpoem.parser.Parser;
 
 import javax.inject.Inject;
 
 
-public class PreBurner {
+public class Poem {
 
     @Inject
     Parser parser;
 
     @Inject
-    public PreBurner() {
+    public Poem() {
 
         burn();
     }

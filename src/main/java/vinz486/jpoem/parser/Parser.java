@@ -1,4 +1,4 @@
-package vinz486.preburner.parser;
+package vinz486.jpoem.parser;
 
 public interface Parser {
 

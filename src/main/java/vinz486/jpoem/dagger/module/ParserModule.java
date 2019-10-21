@@ -1,10 +1,10 @@
-package vinz486.preburner.dagger.module;
+package vinz486.jpoem.dagger.module;
 
 import dagger.Binds;
 import dagger.Module;
 import dagger.Provides;
-import vinz486.preburner.parser.OpenApiParser;
-import vinz486.preburner.parser.Parser;
+import vinz486.jpoem.parser.OpenApiParser;
+import vinz486.jpoem.parser.Parser;
 
 @Module
 public abstract class ParserModule {
