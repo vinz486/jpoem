@@ -13,7 +13,6 @@ public class Poem {
     @Inject
     public Poem() {
 
-        burn();
     }
 
     public void burn() {
